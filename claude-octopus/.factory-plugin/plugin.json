@@ -1,0 +1,33 @@
+{
+  "name": "octo",
+  "version": "9.45.0",
+  "description": "Multi-tentacled orchestrator using Double Diamond methodology. v9.44.1. 32 expert personas, 49 commands, 54 skills. Commands '/octo:*'. Run /octo:setup for guided setup. Compatible with Claude Code and Factory AI Droid.",
+  "author": {
+    "name": "nyldn"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/nyldn/claude-octopus",
+  "homepage": "https://github.com/nyldn/claude-octopus#readme",
+  "keywords": [
+    "factory-ai",
+    "droid",
+    "claude-code",
+    "multi-agent",
+    "parallel",
+    "codex",
+    "gemini",
+    "orchestration",
+    "ai-agents",
+    "double-diamond",
+    "design-thinking",
+    "quality-gates",
+    "multi-provider",
+    "provider-routing",
+    "agent-discovery",
+    "ai-debates",
+    "consensus-building",
+    "knowledge-work",
+    "scheduler",
+    "automation"
+  ]
+}
